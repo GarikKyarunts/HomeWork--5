@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(186, 196, 41);
+}
+
+.btn {
+  display: block;
+  font-size: 30px;
+  background-color: rgba(16, 191, 235, 0.993);
+  padding-left: 55px;
+  padding-top: 5px;
+  font: bold;
+  width: 140px;
+  height: 40px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background-color: rgb(65, 65, 236);
+}
+
+.content {
+  margin-left: 45%;
+  margin-top: 10%;
+}
+
+#output {
+  padding: auto;
+}
